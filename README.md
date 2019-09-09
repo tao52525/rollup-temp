@@ -1,0 +1,2 @@
+# Rollup简单脚手架
+使用了babel、terser，打包生成带sourcemap的umd的文件
